@@ -19,4 +19,4 @@ Mon *blog* (*so ninetiens*) s'appelle [notes·de·pit](http://blog.namok.be).
 
 333
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=pbettens)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=pbettens&repo=HEB-ESI/dev1)](https://github.com/anuraghazra/github-readme-stats)
