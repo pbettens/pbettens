@@ -6,13 +6,12 @@ Pierre Bettens, ce dépôt est le dépôt professionnel… en tant que prof *aka
 
 ### notes·de·pit
 
-Mon *blog* (*so ninetiens*) s'appelle [notes·de·pit](http://blog.namok.be). 
+Mon *blog* (*so nineties*) s'appelle [notes·de·pit](http://blog.namok.be). 
 
-1111
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbettens)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-lang?username=pbettens&theme=radical&show_icons=true)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbettens&theme=radical&show_icons=true)]
 
-2222
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pbettens)](https://github.com/anuraghazra/github-readme-stats)
 
