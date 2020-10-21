@@ -1,16 +1,22 @@
-### Hi there 👋
+![banner](img/banner-github.png)
 
-<!--
-**pbettens/pbettens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there <img src="img/wave.gif" width="30px" />
 
-Here are some ideas to get you started:
+Pierre Bettens, ce dépôt est le dépôt professionnel… en tant que prof *aka* Maitre-assistant à la HE2B-ESI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### notes·de·pit
+
+Mon *blog* (*so ninetiens*) s'appelle [notes·de·pit](http://blog.namok.be). 
+
+1111
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbettens)](https://github.com/anuraghazra/github-readme-stats)
+
+2222
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pbettens)](https://github.com/anuraghazra/github-readme-stats)
+
+
+333
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=pbettens)](https://github.com/anuraghazra/github-readme-stats)
