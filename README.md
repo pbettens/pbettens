@@ -16,6 +16,6 @@ Mon *blog* (*so nineties*) s'appelle [notes·de·pit](http://blog.namok.be).
 
 ### Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=pbettens&theme=graywhite&show_icons=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbettens&theme=graywhite&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=pbettens&theme=vue&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbettens&theme=vue&show_icons=true)
 
