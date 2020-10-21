@@ -9,9 +9,10 @@ Pierre Bettens, ce dépôt est le dépôt professionnel… en tant que prof *aka
 Mon *blog* (*so nineties*) s'appelle [notes·de·pit](http://blog.namok.be). 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=pbettens&theme=buefy&show_icons=true&layout=compact)]
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbettens&theme=buefy&show_icons=true)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=pbettens&theme=buefy&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbettens&theme=buefy&show_icons=true)
 
+[![Twitter](img/twitter.png)][1] [![LinkedIn](img/linkedin.png)][3].
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=pbettens&repo='HEB-ESI/dev1')
+[1]: https://twitter.com/pinkilla
+[2]: https://www.linkedin.com/in/pierrebettens
